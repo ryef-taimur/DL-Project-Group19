@@ -23,7 +23,6 @@ This project implements a full end-to-end medical image segmentation pipeline to
 - **Medical Report Generation**  
   Integration with the **LLaVA Vision-Language Model**, converting CT images and masks into natural language reports for clinical interpretation.
 
----
 ## 📂 Code Structure
 
 ```bash
@@ -38,7 +37,7 @@ Group_19_Project/
 ├── output1.png, test1.png     # Sample predictions
 
 └── Group19_DLProjectReport.pdf # Final paper
-
+---
 
 ## 💡 Key Results
 
