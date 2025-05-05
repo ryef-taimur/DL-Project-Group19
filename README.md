@@ -25,18 +25,17 @@ This project implements a full end-to-end medical image segmentation pipeline to
 
 ## 📂 Code Structure
 
-```bash
 Group_19_Project/
 
-├── final.ipynb                # Full pipeline: segmentation → SHAP → LLM reporting
+• final.ipynb – Full pipeline: segmentation → SHAP → LLM reporting
 
-├── segmentations.ipynb        # Liver + tumor segmentation logic only
+• segmentations.ipynb – Liver + tumor segmentation logic only
 
-├── final_report_images/       # Visual output and evaluation plots
+• final_report_images/ – Visual output and evaluation plots
 
-├── output1.png, test1.png     # Sample predictions
+• output1.png, test1.png – Sample predictions
 
-└── Group19_DLProjectReport.pdf # Final paper
+• Group19_DLProjectReport.pdf – Final paper
 ---
 
 ## 💡 Key Results
