@@ -8,6 +8,7 @@ This project implements a full end-to-end medical image segmentation pipeline to
 
 ---
 
+
 ## 🚀 Pipeline Components
 
 - **Liver Segmentation**  
@@ -23,6 +24,21 @@ This project implements a full end-to-end medical image segmentation pipeline to
   Integration with the **LLaVA Vision-Language Model**, converting CT images and masks into natural language reports for clinical interpretation.
 
 ---
+## 📂 Code Structure
+
+```bash
+Group_19_Project/
+
+├── final.ipynb                # Full pipeline: segmentation → SHAP → LLM reporting
+
+├── segmentations.ipynb        # Liver + tumor segmentation logic only
+
+├── final_report_images/       # Visual output and evaluation plots
+
+├── output1.png, test1.png     # Sample predictions
+
+└── Group19_DLProjectReport.pdf # Final paper
+
 
 ## 💡 Key Results
 
